@@ -56,4 +56,8 @@ public:
 		}
 	}
 
+	void search(string element, node*& parent, node*& currentnode)
+	{
+
+	}
 };
