@@ -154,5 +154,10 @@ int main()
 			obj.preorder(obj.ROOT);
 			break;
 		}
+		case '4':
+		{
+			obj.postorder(obj.ROOT);
+			break;
+		}
 	}
 }
